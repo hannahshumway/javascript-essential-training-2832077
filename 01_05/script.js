@@ -2,10 +2,10 @@
  * Create a Backpack object, populate some HTML to display its properties.
  */
 
-// Single line comment
+// Single line comment - write your Javascript from top to bottom. Browser doesn't care about spacing at all.
 
 /* Multi-line comment
-See! this line is also commented out! */
+  Indentation = Hierarchy */
 
 const updateBackpack = (update) => {
   let main = document.querySelector("main"); // main is an element
